@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "id": "yt_schoonmaker_bij_mensen_thuis",
+      "video_id": "rSPnLwk0cAI",
+      "title": "Schoonmaker bij mensen thuis",
+      "description": "Werken in de zorg — nursing in Flanders",
+      "subtitle_file": "subtitles/schoonmaker_bij_mensen_thuis.srt",
+      "duration_label": "3:12"
+    },
+    {
+      "id": "yt_kamerpersoneel",
+      "video_id": "RYqG4Mtc0Yw",
+      "title": "Kamerpersoneel",
+      "description": "Schoonmaaksector",
+      "subtitle_file": "subtitles/kamerpersoneel.srt",
+      "duration_label": "3:12"
+    },
+    {
+      "id": "yt_verpleegkundige",
+      "video_id": "9_mSKOcz9u0",
+      "title": "Verpleegkundige",
+      "description": "Werken in de zorg — nursing in Flanders",
+      "subtitle_file": "subtitles/verpleegkundige.srt",
+      "duration_label": "3:12"
+    },
+    {
+      "id": "yt_Medical_Imaging_Technologist",
+      "video_id": "cu7P5U4qKYs",
+      "title": "Medical Imaging Technologist",
+      "description": "Werken in de zorg — nursing in Flanders",
+      "subtitle_file": "subtitles/medische_beeldvorming.srt",
+      "duration_label": "3:12"
+    },
+    {
+      "id": "yt_schoonmaker",
+      "video_id": "zpqGB-LCePY",
+      "title": "Schoonmaker",
+      "description": "Werken in de zorg — nursing in Flanders",
+      "subtitle_file": "subtitles/schoonmaker.srt",
+      "duration_label": "3:12"
+    }
+  ]
+}
